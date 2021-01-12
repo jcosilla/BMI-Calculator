@@ -1,0 +1,11 @@
+ion-content {
+  background: linear-gradient(to bottom,#FFAFBD ,#ffc3a0);
+}
+h2 {
+  color: #60e9d7fd;
+  text-align:center;
+}
+p {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: justify;
+}
